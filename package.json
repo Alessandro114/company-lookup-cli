@@ -1,0 +1,23 @@
+{
+  "name": "company-lookup",
+  "version": "1.0.0",
+  "description": "Look up any company in the terminal. Revenue, employees, credit score from 250M+ records.",
+  "main": "index.js",
+  "bin": {
+    "company": "./index.js"
+  },
+  "keywords": [
+    "company", "lookup", "cli", "business", "revenue", "employees",
+    "credit-score", "financial-data", "company-data", "business-intelligence",
+    "data-enrichment", "b2b", "company-search", "company-info"
+  ],
+  "author": "Alessandro Binda <ale@get-scala.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alessandro114/company-lookup-cli"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
