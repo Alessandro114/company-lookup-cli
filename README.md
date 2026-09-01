@@ -1,9 +1,9 @@
-# company
+# company-lookup
 
 Look up any company in the terminal.
 
 ```bash
-npx company Ferrero
+npx company-lookup Ferrero
 ```
 
 ```
@@ -29,13 +29,13 @@ npx company Ferrero
 ## Install
 
 ```bash
-npm install -g company
+npm install -g company-lookup
 ```
 
 Or use directly (no install):
 
 ```bash
-npx company "Siemens AG"
+npx company-lookup "Siemens AG"
 ```
 
 ## Usage
