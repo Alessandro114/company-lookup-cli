@@ -1,7 +1,7 @@
 {
   "name": "company-lookup",
   "version": "1.0.0",
-  "description": "Look up any company in the terminal. Revenue, employees, credit score from 250M+ records.",
+  "description": "Look up any company in the terminal. Revenue, employees and credit score where available, from 249M+ records.",
   "main": "index.js",
   "bin": {
     "company": "./index.js"
