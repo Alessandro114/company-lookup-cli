@@ -24,7 +24,7 @@ npx company-lookup Ferrero
   Web:      ferrero.com
 ```
 
-**250M+ companies. 50+ countries. No signup needed.**
+**249M+ companies. 264 countries. No signup needed.**
 
 ## Install
 
@@ -76,7 +76,7 @@ company pizza
 
 ## Data
 
-- **250M+ companies** across 50+ countries
+- **249M+ companies** across 264 countries
 - Sources: official government business registries
 - Free tier: 50 lookups/month, no signup
 
@@ -94,3 +94,7 @@ company pizza
 ## License
 
 MIT
+
+## Data coverage
+
+S.C.A.L.A. Score holds about 249 million company records from public registries and open data in 264 countries (figure shown on [score.get-scala.com](https://score.get-scala.com), checked 03/11/2026). Financial fields such as revenue, employees or score are present only where the source publishes them, which is a minority of the records; always check each field before relying on it.
